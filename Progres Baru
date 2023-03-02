@@ -1,0 +1,29 @@
+<html>
+<head>
+<tittle>web pembelajaran</tittle>
+</head>
+<body>
+    <h1 style="color: violet;border: 0rem;font-size: large;background-color: black;text-align: center;">WEBSITE PEMBELAJARAN TEKNOLOGI PENDIDIKAN</h1>
+    <h2 style="border-style: groove; border-color :coral;font-size: medium;color: blueviolet;text-align: center;">Website yang Berisi Ilmu Multimedia</h2>
+    <p> Hiduplah seperti Albert Enstein yang menggunakan otaknya untuk menciptakan hal yang luar biasa </p>
+<img src="download (16).jpeg">
+<video width="500"src="News Intro (After Effects templates).mp4"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XKd-qdNNko4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe
+<br> 
+<a href="panduan yang dapat Anda percaya.html" target="_blank" >https://id.wikihow.com/Halaman-Utama </a>
+
+<br>
+<ul>
+    <li>home</li>
+    <li>contact</li>
+    <li>info</li>
+</ul>
+<br>
+<ol>
+    <li>nomer 1</li>
+    <li>nomer 2</li>
+    <li>nomer 3</li>
+</ol>
+
+</body>
+</html>
