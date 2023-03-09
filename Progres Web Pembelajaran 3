@@ -1,0 +1,29 @@
+<html>
+    <link rel="stylessheet" href="styling.css">
+    <style>
+        *{height: 100%;}
+        body{background-color: peachpuff;display: flex;flex-direction: column;}
+        header{font-size: xx-large;background-color: gray;}
+        section{background-color: plum;display: flex;width: 100%;margin-left: 20px;}
+
+        aside{background-color:coral;font-size: 36pt;display: flex;width: 20%;}
+        main{background-color:rosybrown;font-style: italic;font-size: x-large;display: flex;height: 80vp;}
+        footer{background-color: darkorchid;font-size: larger;}
+
+    </style>
+<head>
+
+<body>
+    <header>HEADER</header>
+    <main>
+        <aside>SIDEBAR</aside>
+        <section>
+            <article>bagian 1</article>
+            <article>bagian 2</article>
+        </section>
+        </main>
+
+<footer>FOOTER</footer>
+
+</body>
+</html>
