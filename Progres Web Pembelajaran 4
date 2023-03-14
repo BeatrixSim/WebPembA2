@@ -1,0 +1,53 @@
+<html>
+    <link rel="stylessheet" href="styling.css">
+    <style>
+
+    *{margin: 0px;padding: 10px;box-sizing: border-box;height: 100%;}
+
+        body{background-color: peachpuff;display: flex;flex-direction: column;}
+        header{font-size: xx-large;background-color:white;display: flex;flex: 2;justify-content: space-between;}
+        section{background-color: plum;display: flex;width: 100%;margin-left: 20px;display: flex;column-gap: 10px;font-size: medium;}
+
+        aside{background-color:coral;width: 20%;font-size: medium;}
+        main{background-color:rosybrown;font-style: italic;font-size: x-large;display: flex;flex: 10;}
+        footer{background-color: darkorchid;font-size: larger;display: flex;flex: 1;}
+        article{background-color: silver;width: 100%;}
+        ul{display: flex;list-style: none;}
+        li{margin: right 5%;}
+
+    </style>
+
+<head>
+
+<body>
+    <header>
+        <h1><img src="logo uny.png" ; width="150"></h1>
+        <nav>
+            <ul>
+                <li><a href="panduan yang dapat Anda percaya.html"></a>Home</a></li>
+                <li><a href="panduan yang dapat Anda percaya.html"></a>About</li>
+                <li><a href="panduan yang dapat Anda percaya.html"></a>Contact</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <aside>
+            <ul>
+                <br><a href="panduan yang dapat Anda percaya.html">Materi</a></br>
+                <br><a href="panduan yang dapat Anda percaya.html">Matakuliah </a></br>
+                <br><a href="panduan yang dapat Anda percaya.html">Jadwal</a></br>
+            </ul>
+        </aside>
+
+        <section>
+            <article>Bagian A</article>
+            <article>Bagian B</article>
+            <article>Bagian C</article>
+        </section>
+    </main>
+
+    <footer>FOOTER</footer>
+
+</body>
+</html>
